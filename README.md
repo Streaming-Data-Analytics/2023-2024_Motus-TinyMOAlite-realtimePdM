@@ -4,9 +4,9 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: **[To be assigned]**
 
-The project will use the Java library tinyMOA-lite1 on a Raspberry Pi simulator to solve a live classification task. The aim is to train several models on tinyMOA-lite on a Raspberry Pi simulator and to show the prediction results on a dashboard in real-time.
+The project will use the [Java library tinyMOA-lite](https://www.politesi.polimi.it/handle/10589/201696) on a Raspberry Pi simulator to solve a live classification task. The aim is to train several models on tinyMOA-lite on a Raspberry Pi simulator and to show the prediction results on a dashboard in real-time.
 
-More in practice, for the AI4I 2020 Predictive Maintenance Dataset2, you have to train and test the Naïve Bayes, KNN, HT, HAT, ARF, Online Bagging, Leveraging Bagging, ARF, and SRP models in tinyMOA-lite on a Raspberry Pi simulator one sample at a time, showing in real-time in a dashboard the features in input, the prediction, and the metrics results achieved.
+More in practice, for the [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset), you have to train and test the Naïve Bayes, KNN, HT, HAT, ARF, Online Bagging, Leveraging Bagging, ARF, and SRP models in tinyMOA-lite on a Raspberry Pi simulator one sample at a time, showing in real-time in a dashboard the features in input, the prediction, and the metrics results achieved.
 About the data ingestion to the Raspberry Pi, it is expected to send one sample at a time to the device and retrieve the prediction. It does not matter if the process will be slower.
 
 You should use the following metrics to compare the results: Accuracy, Balanced Accuracy, Geometric Mean, and CohenKappa
