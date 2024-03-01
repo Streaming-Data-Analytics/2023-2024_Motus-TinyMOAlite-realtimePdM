@@ -23,6 +23,5 @@ We will give you the tinyMOA-lite code after signing an NDA disclosure.
 * Add your name and surname into the Readme file;
 * Make any changes to your repository, according to the specific assignment;
 * Add a `requirement.txt` file for code reproducibility and instructions on how to replicate the results;
-* Add an open-source license, e.g., Apache 2.0;
 * Commit your changes to your local repository;
 * Push your changes to your online repository.
