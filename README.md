@@ -1,4 +1,4 @@
-Real Time Predictive Maintenance task using a Quantized MOA Version on a Microprocessor
+# Real Time Predictive Maintenance task using a Quantized MOA Version on a Microprocessor
 
 ============
 
