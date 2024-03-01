@@ -1,7 +1,5 @@
 # Real Time Predictive Maintenance task using a Quantized MOA Version on a Microprocessor
 
-============
-
 Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org/teaching/streaming-data-analytics-2023-24/) course provided by [Politecnico di Milano]
 
 Student: **[To be assigned]**
